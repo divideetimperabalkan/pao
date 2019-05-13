@@ -1,0 +1,16 @@
+Buna ziua,
+
+
+O sa incerc sa prezint saptamana urmatoare partea a doua , astazi nu am putut veni (am fost la un interviu).
+
+
+proiect viitor+erori:
+
+	Am integrat logarea cu google , dar nu am reusit inca sa integrez firebase-ul pentru a salva comenzile din haine,electrocasnice. Pentru food ar trebui in final sa fie o mapa google cu cateva magazine(locatii).
+	Iar pentru comenzile de haine,electrocasnice(donatile) ma gandeam sa le afisez intr-o lista publica sau alta mapa.
+
+
+
+
+Multumesc,
+Manta Ciprian Nicolae. 
